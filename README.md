@@ -1,1 +1,1 @@
-# jet-tailwind-modern-landing-page
+# JET Tailwind Modern Landing Page
