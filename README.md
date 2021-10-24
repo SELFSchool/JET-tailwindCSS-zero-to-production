@@ -1,2 +1,2 @@
-# JET Tailwind Zero to Production
+# JET TailwindCSS Zero to Production
 
